@@ -1,11 +1,16 @@
 {
   "name": "08-weather-app-okan-s",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "@material-ui/core": "^3.9.2",
+    "moment": "^2.24.0",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-places-autocomplete": "^7.2.1",
+    "react-scripts": "2.1.8",
+    "react-swipeable-views": "^0.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
