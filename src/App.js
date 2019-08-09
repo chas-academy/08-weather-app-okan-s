@@ -44,7 +44,7 @@ const App = () => {
                   <AppBar
                     position="static"
                     style={{
-                      backgroundColor: '#607d8b',
+                      backgndColor: '#607d8b',
                     }}
                   >
                     <Tabs value={index} variant="fullWidth" onChange={handleChange}>
